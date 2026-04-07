@@ -7,6 +7,7 @@ The project integrates the knowledge and skills acquired throughout the course, 
 The implementations from **Modules 2 to 4** are organized in separate repositories, reflecting the incremental development approach followed during the course.
 
 ## Related Work
-- Module 2: [link]
-- Module 3: [link]
-- Module 4: [link]
+- Module 2: [link](https://github.com/DelaramDoroud/Module2-solution.git)
+- Module 3: [link](https://github.com/DelaramDoroud/Module3-solution.git)
+- Module 4: [link](https://github.com/DelaramDoroud/Module4-solution.git)
+- Module 5: [link](https://github.com/DelaramDoroud/Module5-solution.git)
